@@ -9,7 +9,7 @@
 ## 📌 **Deliverables**  
 
 - 📰 **Medium Article:** [Predicting Crop Yield under Climate Volatility](https://medium.com/@pratham.r410/predicting-crop-yield-under-climate-volatility-a-concise-crisp-dm-walkthrough-38b092d969e7)  
-- 📄 **Transcript (PDF):** *(see transcripts folder in Assignment 1 repo)*  
+- 📄 **Transcript (PDF):** *ChatGPT-CRISP-DM EDA analysis.pdf*  
 - 💻 **Colab Notebook:** `CRISP_DM_Climate_Agriculture_Colab.ipynb`  
 - 🌍 **Dataset:** [Climate Change Impact on Agriculture (Kaggle)](https://www.kaggle.com/datasets/waqi786/climate-change-impact-on-agriculture)  
 

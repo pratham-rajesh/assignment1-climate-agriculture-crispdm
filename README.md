@@ -1,7 +1,7 @@
 # 📊 **Data Science with ChatGPT + GitHub Copilot**  
 
 **👤 Student:** Pratham Rajesh  
-**📚 Course:** Assignment 2 — Visual Studio Code + GitHub Copilot + GPT-Engineer  
+
 
 
 ---

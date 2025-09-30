@@ -1,6 +1,6 @@
 # 📊 **Data Science with ChatGPT + GitHub Copilot**  
 
-**👤 Student:** Pratham Rajesh  
+**👤:** Pratham Rajesh  
 
 
 

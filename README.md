@@ -1,4 +1,4 @@
-# 📊 **Assignment 2 — Data Science with ChatGPT + GitHub Copilot**  
+# 📊 **Data Science with ChatGPT + GitHub Copilot**  
 
 **👤 Student:** Pratham Rajesh  
 **📚 Course:** Assignment 2 — Visual Studio Code + GitHub Copilot + GPT-Engineer  
@@ -8,9 +8,9 @@
 
 ## 📌 **Deliverables**  
 
-- 📰 **Medium Article (Assignment 1):** [Predicting Crop Yield under Climate Volatility](https://medium.com/@pratham.r410/predicting-crop-yield-under-climate-volatility-a-concise-crisp-dm-walkthrough-38b092d969e7)  
-- 📄 **Assignment 1 Transcript (PDF):** *(see transcripts folder in Assignment 1 repo)*  
-- 💻 **Colab Notebook (Assignment 1):** `CRISP_DM_Climate_Agriculture_Colab.ipynb` (in Assignment 1 repo)  
+- 📰 **Medium Article:** [Predicting Crop Yield under Climate Volatility](https://medium.com/@pratham.r410/predicting-crop-yield-under-climate-volatility-a-concise-crisp-dm-walkthrough-38b092d969e7)  
+- 📄 **Transcript (PDF):** *(see transcripts folder in Assignment 1 repo)*  
+- 💻 **Colab Notebook:** `CRISP_DM_Climate_Agriculture_Colab.ipynb`  
 - 🌍 **Dataset:** [Climate Change Impact on Agriculture (Kaggle)](https://www.kaggle.com/datasets/waqi786/climate-change-impact-on-agriculture)  
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-## ✅ **Assignment 2 Deliverables**  
+## ✅ **GitHub Copilot Deliverables**  
 
 - 🔌 Copilot extension installed in VS Code  
 - 🏗️ GPT-Engineer generated starter app  

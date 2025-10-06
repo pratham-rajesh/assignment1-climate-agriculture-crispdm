@@ -30,6 +30,11 @@
 - ✍️ Copilot Chat used for coding, refactoring, unit tests, and explainability page  
 - 🎬 Screencast recorded and uploaded to GitHub Releases  
 - 📑 README with all key links and summary  
+- GitHub repo of project using copilot : https://github.com/pratham-rajesh/simple-space-shooter
+- screen recording of writing functions: https://drive.google.com/file/d/1EXi7G6AjI2iJcGXG64D51Z7Zcjb8aY2g/view?usp=drive_link
+- screen recording of refactoring code : https://drive.google.com/file/d/1KJmg68lOp75CTmTuT7O1mWIkLa91iO-M/view?usp=sharing
+- screen recording of writing unit tests : https://drive.google.com/file/d/1XYgAOOHtJ5afjZmRwzG_fInhmrzwDZKW/view?usp=sharing
+- screen recording of writing entire app: https://drive.google.com/file/d/1_EhZOdMuijNjmEBuGBOPR5p0jfzIIxb-/view?usp=sharing
 
 ---
 
